@@ -1,6 +1,16 @@
 # Portfolio
 Portfolio contendo os MVPs da pós graduação em Ciencia de Dados e Analytics da PUC-RJ 2023
 
+### Premio MVP Destaque - PUC-RJ e MIT Technology Review
+
+Trabalho referente a segunda Sprint da Pós Graduação em Ciência de dados e Analytics que foi selecionado para ser apresentado a banca do Premio MVP Destaque organizado pela PUC-RJ e o MIT Technology Review e recebeu reconhecimento de Destaque Acadêmico.
+
+Links do trabalho: 
+https://www.youtube.com/watch?v=i9ZVbjh1UfE
+https://github.com/JGCMachado/Portfolio/blob/main/MVP2_Chest_XRay_3classes.ipynb
+
+![image](https://github.com/JGCMachado/Portfolio/assets/131912786/7304be91-d038-4d63-8422-ff5fde6d4be8)
+
 ### MVP1 - MVP1_Heart_Disease.ipynb
 
 O MVP da primeira sprint é referente a Análise de Dados e Boas Práticas e visa trabalhar um dataset desde a definição do problema até a etapa de pré-processamento de dados, conforme esquema visto na disciplina Análise exploratória e pré-processamento de dados.
