@@ -6,6 +6,7 @@ Portfolio contendo os MVPs da pós graduação em Ciencia de Dados e Analytics d
 Trabalho referente a segunda Sprint da Pós Graduação em Ciência de dados e Analytics que foi selecionado para ser apresentado a banca do Premio MVP Destaque organizado pela PUC-RJ e o MIT Technology Review e recebeu reconhecimento de Destaque Acadêmico.
 
 Links do trabalho: 
+
 https://www.youtube.com/watch?v=i9ZVbjh1UfE
 https://github.com/JGCMachado/Portfolio/blob/main/MVP2_Chest_XRay_3classes.ipynb
 
